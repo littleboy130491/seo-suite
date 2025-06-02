@@ -25,22 +25,8 @@ Features
 
 ## Installation
 
-To install the package you should add the following lines to your composer.json file in the repositories key in order to get access to the private package:
-
-```json
-{
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://seo-suite-for-filamentphp.composer.sh"
-    }
-  ]
-}
-```
-Next, you should require the package via the command line. You will be prompted for your username (which is your e-mail) and your password (which is your license key, e.g. f6183128-5477-4f38-45b1-4842484f4a842:ProjectName).
-
 ```bash
-composer require afatmustafa/seo-suite
+composer require littleboy130491/seo-suite
 ```
 
 > **Note**: This package uses artesaos/seotools behind the scenes, you may also need to follow the [installation](https://github.com/artesaos/seotools#installation) steps there.
