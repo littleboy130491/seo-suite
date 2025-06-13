@@ -1,8 +1,8 @@
 {
-    "name": "afatmustafa/seo-suite",
+    "name": "littleboy130491/seo-suite",
     "description": "SEO Suite for FilamentPHP: Easily integrate and manage SEO features in your Filament projects",
     "keywords": [
-        "afatmustafa",
+        "littleboy130491",
         "laravel",
         "seo-suite",
         "seo",
@@ -10,16 +10,12 @@
         "filamentphp",
         "seotools"
     ],
-    "homepage": "https://github.com/afatmustafa/seo-suite",
-    "support": {
-        "issues": "https://github.com/afatmustafa/seo-suite/issues",
-        "source": "https://github.com/afatmustafa/seo-suite"
-    },
+    "homepage": "https://github.com/littleboy130491/seo-suite",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mustafa Afat",
-            "email": "mustafa@afat.me",
+            "name": "henry",
+            "email": "littleboy_13@yahoo.com",
             "role": "Developer"
         }
     ],
